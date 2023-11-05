@@ -11,7 +11,7 @@
   <Project>https://github.com/sentriz/betanin</Project>
   <Overview>https://hub.docker.com/r/andrewjmetzger/docker-betanin</Overview>
   <Category>MediaApp:Music Status:Beta</Category>
-  <WebUI>http;//[IP]:[PORT:9393]</WebUI>
+  <WebUI>http://[IP]:[PORT:9393]</WebUI>
   <TemplateURL/>
   <Icon>https://github.com/sentriz/betanin/blob/6ef276a6f23d6502d91a459bcb1b0c370326de21/.github/logo.png</Icon>
   <ExtraParams>--restart=unless-stopped</ExtraParams>
