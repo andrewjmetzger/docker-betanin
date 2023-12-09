@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
+   <!-- Place in /boot/config/plugins/dockerMan/templates-user/my-betanin.xml -->
   <Name>betanin</Name>
   <Repository>andrewjmetzger/docker-betanin</Repository>
   <Registry>https://github.com/andrewjmetzger/docker-betanin/pkgs/container/docker-betanin</Registry>
