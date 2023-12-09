@@ -2,14 +2,14 @@
 <Container version="2">
   <Name>betanin</Name>
   <Repository>andrewjmetzger/docker-betanin</Repository>
-  <Registry>https://hub.docker.com/r/andrewjmetzger/docker-betanin</Registry>
+  <Registry>https://github.com/andrewjmetzger/docker-betanin/pkgs/container/docker-betanin</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>supthread</Support>
+  <Support/>
   <Project>https://github.com/sentriz/betanin</Project>
-  <Overview>https://hub.docker.com/r/andrewjmetzger/docker-betanin</Overview>
+  <Overview>https://github.com/andrewjmetzger/docker-betanin/pkgs/container/docker-betanin</Overview>
   <Category>MediaApp:Music Status:Beta</Category>
   <WebUI>http://[IP]:[PORT:9393]</WebUI>
   <TemplateURL/>
@@ -17,7 +17,7 @@
   <ExtraParams>--restart=unless-stopped</ExtraParams>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1699220907</DateInstalled>
+  <DateInstalled/>
   <DonateText/>
   <DonateLink/>
   <Requires/>
